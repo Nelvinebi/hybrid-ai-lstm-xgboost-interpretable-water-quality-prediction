@@ -19,7 +19,7 @@
 
 [![Published in Discover Civil Engineering](https://img.shields.io/badge/📄%20Published%20in-Discover%20Civil%20Engineering%20(Springer)-0B3D91?style=for-the-badge)](https://link.springer.com/article/10.1007/s44290-026-00417-x)
 
-[![Live Dashboard](https://img.shields.io/badge/🚀%20Click%20for%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Live Dashboard](https://img.shields.io/badge/🚀%20Click%20for%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction.streamlit.app/)
 
 </div>
 
