@@ -1,0 +1,2 @@
+# This file ensures the models/ directory is tracked by Git
+# Trained model files are excluded via .gitignore
