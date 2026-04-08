@@ -133,8 +133,6 @@ All data consists of real physicochemical measurements, no synthetic data is use
 
 ## 📸 Visualisations
 
-## 📸 Visualisations
-
 ### 🔹 Hybrid AI Architecture — End-to-End Pipeline
 > A unified pipeline integrating LSTM, XGBoost, and K-Means through a stacking ensemble, enabling simultaneous prediction, classification, and spatial clustering of water quality
 
